@@ -17,6 +17,7 @@ Skills:  REACT / JS / HTML / CSS/Bootstrap/
 [![trophy](https://github-profile-trophy.vercel.app/?username=VaxobjanovDev)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VaxobjanovDev)](https://github.com/anuraghazra/github-readme-stats) 
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=VaxobjanovDev&show_icons=true&count_private=true)
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=VaxobjanovDev)  
