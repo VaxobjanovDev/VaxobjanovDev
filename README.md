@@ -6,7 +6,7 @@ Skills:  REACT / JS / HTML / CSS/Bootstrap/
 
 - 🔭 I’m currently working on profile projects 
 - 🌱 I’m currently learning React js, Express js 
--👨🏻‍💻 I’m looking to collaborate on every developer 
+- 👨🏻‍💻 I’m looking to collaborate on every developer 
 - 💬 Ask me about Web Development and Javascript 
 - 📫 How to reach me: vaxobjanovdev@gmail.com 
 - ⚡ Fun fact: I love plov 
