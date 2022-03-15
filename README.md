@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is G'avsiddin
-#### I am a Junior Web Developer
+#### I am a Front End Web Developer
 I good at Html, Css, Javascript, Bootstrap, Node, Express, Mongodb, React. I'm learning MERN stack.
 
 Skills:  REACT / JS / HTML / CSS/Bootstrap/
