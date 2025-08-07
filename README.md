@@ -27,7 +27,7 @@
 
 ### 📊 GitHub Stats & Activity
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=VaxobjanovDev&theme=tokyonight&border_radius=6)](https://git.io/streak-stats)  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=VaxobjanovDev&theme=tokyonight&border_radius=6)](https://github.com/DenverCoder1/github-readme-streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VaxobjanovDev&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)  
 [![VaxobjanovDev's GitHub Stats](https://github-readme-stats.vercel.app/api?username=VaxobjanovDev&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -41,13 +41,13 @@
 
 ### 📈 Contribution Graph
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=VaxobjanovDev&theme=tokyo-night)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+[![GitHub Activity Graph](https://github-activity-graph.vercel.app/graph?username=VaxobjanovDev&theme=tokyo-night)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
 ---
 
 ### 👁️ Profile Views
 
-![Profile views](https://gpvc.arturio.dev/VaxobjanovDev)
+![Visitors](https://komarev.com/ghpvc/?username=VaxobjanovDev&color=blue)
 
 ---
 
@@ -63,5 +63,3 @@ I ❤️ plov — Uzbekistan's national dish 🍽️
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/GavsiddinBoy)
 
 ---
-
-> Built with ❤️ by G'avsiddin | [Update this profile](https://github.com/VaxobjanovDev/VaxobjanovDev/edit/main/README.md)
