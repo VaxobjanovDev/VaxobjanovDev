@@ -1,26 +1,67 @@
-### Hi there 👋, my name is G'avsiddin
-#### I am a Front End Web Developer
-I good at Html, Css, Javascript, MUI, Reactjs and Nextjs.
+### Hi there 👋 I'm G'avsiddin Vaxobjanov
+#### 💻 Frontend Web Developer | React & Next.js Enthusiast
 
-Skills:  REACT / JS / HTML / CSS/Bootstrap/
+---
 
-- 🔭 I’m currently working on my freelancing projects 
-- 🌱 I’m currently learning Express js in Backend
-- 👨🏻‍💻 I’m looking to collaborate on every developer 
-- 💬 Ask me about Web Development and Javascript 
-- 📫 How to reach me: vaxobjanovdev@gmail.com 
-- ⚡ Fun fact: I love plov 
+🚀 I specialize in building responsive, scalable, and user-friendly web applications using modern frontend technologies.
 
+### 🧠 Tech Stack & Tools
+> React.js · Next.js · JavaScript (ES6+) · TypeScript · HTML5 · CSS3  
+> MUI · Bootstrap · Styled-components · Vite  
+> **TanStack Query (React Query)** · Axios · Zod · React Hook Form   
+> Git · GitHub · VSCode · Figma
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/VaxobjanovDev)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/VaxobjanovDev)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='40'>](https://t.me/Snapwatch)  
+### 🔧 Currently Working On:
+- Freelance web development projects
+- Learning Express.js for full-stack development
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Vaxobjanovdev)](https://github.com/ryo-ma/github-profile-trophy)
+### 🤝 Let's Collaborate
+- Open to collaborating with developers on exciting frontend and full-stack projects
+- Passionate about clean code, UI/UX, and performance optimization
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VaxobjanovDev)](https://github.com/anuraghazra/github-readme-stats) 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=VaxobjanovDev&show_icons=true&count_private=true)
+### 📬 Reach Me At:
+- 📧 Email: [vaxobjanovdev@gmail.com](mailto:vaxobjanovdev@gmail.com)
+- 💬 Telegram: [@GavsiddinBoy](https://t.me/GavsiddinBoy)
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=VaxobjanovDev)  
+---
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=VaxobjanovDev)  
+### 📊 GitHub Stats & Activity
 
-![Profile views](https://gpvc.arturio.dev/VaxobjanovDev)  
+[![GitHub Streak](https://streak-stats.demolab.com/?user=VaxobjanovDev&theme=tokyonight&border_radius=6)](https://git.io/streak-stats)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VaxobjanovDev&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)  
+[![VaxobjanovDev's GitHub Stats](https://github-readme-stats.vercel.app/api?username=VaxobjanovDev&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+### 🏆 GitHub Achievements
+
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=VaxobjanovDev&theme=tokyonight&no-frame=true&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+### 📈 Contribution Graph
+
+[![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=VaxobjanovDev&theme=tokyo-night)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+
+---
+
+### 👁️ Profile Views
+
+![Profile views](https://gpvc.arturio.dev/VaxobjanovDev)
+
+---
+
+### ⚡ Fun Fact
+I ❤️ plov — Uzbekistan's national dish 🍽️
+
+---
+
+### 🌐 Socials
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VaxobjanovDev)
+[![CodePen](https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/VaxobjanovDev)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/GavsiddinBoy)
+
+---
+
+> Built with ❤️ by G'avsiddin | [Update this profile](https://github.com/VaxobjanovDev/VaxobjanovDev/edit/main/README.md)
