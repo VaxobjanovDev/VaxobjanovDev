@@ -27,7 +27,7 @@
 
 ### 📊 GitHub Stats & Activity
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=VaxobjanovDev&theme=tokyonight&border_radius=6)](https://github.com/DenverCoder1/github-readme-streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=VaxobjanovDev&theme=tokyonight&border_radius=6)](https://github.com/VaxobjanovDev/github-readme-streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VaxobjanovDev&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)  
 [![VaxobjanovDev's GitHub Stats](https://github-readme-stats.vercel.app/api?username=VaxobjanovDev&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
